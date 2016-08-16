@@ -1,2 +1,2 @@
 # SPOJ
-Solutions to SPOJ problems.
+Solutions to SPOJ problems, in Python3
